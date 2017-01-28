@@ -9,7 +9,7 @@ div.plane {
 	min-width: 55em;
 	border-right-style: groove;
 	border-bottom-style: groove;
-	border-radius:5px;
+	border-radius:20%;
 }
 
 hr {
@@ -38,7 +38,7 @@ div.main {
 #home_image {	
 	border-bottom-style: groove;
 	border-right-style: groove;	
-	border-radius:5px;
+	border-radius:20%;
 }
 
 div.name {
