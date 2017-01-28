@@ -1,0 +1,164 @@
+body {
+	background-color: #F0F0E8; 	 
+}
+
+div.plane {
+	background-color: #F5FBFD;
+	color: #313233; 
+	margin: 0 8em 0 8em;
+	min-width: 55em;
+	border-right-style: groove;
+	border-bottom-style: groove;
+	border-radius:2%;
+}
+
+hr {
+	margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+    border-width: thin;
+    border-style: groove;
+}
+
+div.main {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin-left: 5%;
+	width: 90%;
+	font-size:medium;
+	text-align:left;
+}
+
+
+
+
+
+
+/* Home Image & Name */
+
+#home_image {	
+	border-bottom-style: groove;
+	border-right-style: groove;	
+	border-radius:5px;
+}
+
+div.name {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-variant: small-caps;/*normal*/
+	font-size: large;
+	text-align: left;
+	color: black;
+	
+	position: absolute;
+	min-width: 30em;
+	top: 3em;
+	left: 9em;
+}
+
+/* Footer */
+
+#footer {
+	margin-top: 2em;
+	padding-bottom: 2em;
+	color: black;
+}
+
+#left {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	width: 45%;
+	padding-left: 5%;
+	padding-bottom: 1em;
+}
+
+#right {
+	float:right;
+	width: 45%;
+}
+
+#footer hr{
+    margin-left: 0;
+    margin-right: 15%;
+    border-style: inset;
+    border-width: 1px;
+}
+
+#social_image {
+	border-radius: 30%;
+	margin-right: 2em;
+}
+
+#self_image {
+	border-radius: 10% 10%;
+	float: right;
+	margin-right: 15%;
+}
+
+#rudbeats_image {
+	border-radius: 10% 10%;
+	float:left;
+	margin-right: 1em;
+}
+
+address {
+	text-align: center;
+	font-size: small;
+	margin-top: 1em;
+	padding-bottom: 1em;
+	color: #6f6f6f;
+}
+
+/* Navigation Bar */
+
+#nav {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-variant: small-caps;
+	font-size: large;
+	text-align: right;
+	list-style-type: none;
+	margin: 0.5em 8em 0.5em 0em;
+	min-width: 55em;
+	overflow: hidden;
+}
+
+#nav li {
+	color: black;
+	width: 7em;
+	display: inline-block;	
+	
+}
+
+#current {
+	background-color: #DEE6EA;
+	text-decoration: none;
+}
+
+#nav a {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	height: 1.5em;
+	padding-top:0.5em;
+}
+
+#nav a:hover {
+	background-color: #BDCED4;
+	text-decoration: none;
+}    
+
+/* font-[family, size, style, variant, weight] */
+/* text-[align, decoration, indent, shadow, transform] */
+/* color, direction, line-height, letter-spacing, white-space, word-spacing */
+
+/* background-[attachment, color, image, position, repeat] */
+/* border-[top, bottom, right, left]-[color, style, width] */
+
+/* [min, max]-[height, width] */
+/* margin-[top, bottom, right, left] */
+/* padding-[top, bottom, right, left] */
+/* outline-[color, style, width] */
+
+/* list-style-[type, position, image], marker-offset */
+/* clear, cursor, display, float, visibility, position, clip, overflow */
+
+/* content, couner-increment, counter-reset, quotes */
