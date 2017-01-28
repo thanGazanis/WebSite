@@ -1,9 +1,9 @@
 body {
-	background-color: #ffe7b3; 	 
+	background-color: #FFE7B3; /* F0F0E8 */ 	 
 }
 
 div.plane {
-	background-color: #F5FBFD;
+	background-color: #FFE7B3; /* F5FBFD */
 	color: #313233; 
 	margin: 0 8em 0 8em;
 	min-width: 55em;
