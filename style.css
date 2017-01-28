@@ -5,8 +5,8 @@ body {
 div.plane {
 	background-color: #FFE7B3; /* F5FBFD */
 	color: #313233; 
-	margin: 2em 5px 2em 5px;
-	min-width: 60em;
+	margin: 2em 0 2em 0;
+	min-width: 55em;
 	border-right-style: groove;
 	border-bottom-style: groove;
 	border-radius:20px;
